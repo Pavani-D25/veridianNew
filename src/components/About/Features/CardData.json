@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Excellence",
+      "description": "We strive for excellence by continuously honing our skills & expanding our knowledge. Our commitment to excellence drives innovation and quality, setting us apart as leaders in our field.",
+      "icon": "/public/Excellence.png"
+    },
+    {
+      "title": "Initiative",
+      "description": "We encourage a proactive mindset where our team is empowered to take initiative and pursue opportunities for growth. We drive creativity and transformative solutions.",
+      "icon": "/public/Initiative.png"
+    },
+    {
+      "title": "Sustainability",
+      "description": "We are dedicated to sustainable practices that positively impact our community and environment. Our commitment to responsibility ensures we contribute to a better future for generations to come.",
+      "icon": "/public/Sustainability.png"
+    },
+    {
+      "title": "Integrity",
+      "description": "We operate with honesty and uphold the highest ethical standards. Integrity is the cornerstone of our business, guiding our actions and decisions to earn the trust of our clients and partners.",
+      "icon": "/public/Integrity.png"
+    }
+  ]
+  
